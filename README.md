@@ -1,8 +1,9 @@
 # FEDI_DOC
 
-## Capturas Web
+<img src="https://github.com/JacoboFiano/FEDI_DOC/blob/master/logo_fedi_letras.png" width="200" height="200"/>
+Video de muestra del trabajo: https://drive.google.com/file/d/1fYobTSBtk5tdIvRoMyQe3ixwUBbzw74z/view?usp=sharing
 
-![logo](https://github.com/JacoboFiano/FEDI_DOC/blob/master/logo_fedi_letras.png)
+## Capturas Web
 ### Página principal
 Se aprecian los principales eventos activos y se explican las principales características de nuestra aplicación y los tipos usuarios objetivo.
 
